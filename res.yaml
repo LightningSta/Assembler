@@ -1,0 +1,16 @@
+- {instruction: 3 1, binary: '00000023'}
+- {instruction: 3 2, binary: '00000043'}
+- {instruction: 3 4, binary: '00000083'}
+- {instruction: 3 8, binary: '00000103'}
+- {instruction: 3 3, binary: '00000063'}
+- {instruction: 3 2, binary: '00000043'}
+- {instruction: 3 1, binary: '00000023'}
+- {instruction: 3 0, binary: '00000003'}
+- {instruction: 15 0, binary: 0000000F}
+- {instruction: 15 0, binary: 0000000F}
+- {instruction: 15 0, binary: 0000000F}
+- {instruction: 15 0, binary: 0000000F}
+- {instruction: 8 0, binary: '00000008'}
+- {instruction: 8 1, binary: '00000028'}
+- {instruction: 8 2, binary: '00000048'}
+- {instruction: 8 3, binary: '00000068'}

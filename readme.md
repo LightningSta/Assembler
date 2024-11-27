@@ -60,9 +60,10 @@ ____
 *Запустить файл main.java*
 ____  
 **Пример использования**  
-
+![изображение](https://github.com/user-attachments/assets/431e42e7-b246-47de-aeb0-5f34c7c71167)
 ____  
 **Результаты прогона тестов**  
+![изображение](https://github.com/user-attachments/assets/079b990d-37c3-4aef-b6d0-767c7061ca8c)
 
 
 
